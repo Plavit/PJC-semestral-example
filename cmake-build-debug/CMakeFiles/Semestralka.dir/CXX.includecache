@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Marek/Google Drive/School/SIT/5. Semestr/PJC/Semestralka/main.cpp
+iostream
+-
+iomanip
+-
+vector
+-
+dirent.h
+-
+

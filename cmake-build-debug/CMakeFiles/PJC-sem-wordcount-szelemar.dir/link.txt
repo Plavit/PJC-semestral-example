@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -std=c++14 -pthread -g  -Wl,--enable-auto-import CMakeFiles/PJC-sem-wordcount-szelemar.dir/main.cpp.o CMakeFiles/PJC-sem-wordcount-szelemar.dir/controller.cpp.o CMakeFiles/PJC-sem-wordcount-szelemar.dir/Command.cpp.o  -o PJC-sem-wordcount-szelemar.exe -Wl,--out-implib,libPJC-sem-wordcount-szelemar.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

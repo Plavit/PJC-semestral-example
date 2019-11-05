@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Marek/Google Drive/School/SIT/5. Semestr/PJC/Semestralka/Command.cpp
+
+/cygdrive/c/Users/Marek/Google Drive/School/SIT/5. Semestr/PJC/Semestralka/controller.cpp
+iostream
+-
+iomanip
+-
+vector
+-
+dirent.h
+-
+algorithm
+-
+thread
+-
+chrono
+-
+fstream
+-
+mutex
+-
+cmath
+-
+iomanip
+-
+map
+-
+future
+-
+controller.hpp
+/cygdrive/c/Users/Marek/Google Drive/School/SIT/5. Semestr/PJC/Semestralka/controller.hpp
+Command.cpp
+/cygdrive/c/Users/Marek/Google Drive/School/SIT/5. Semestr/PJC/Semestralka/Command.cpp
+
+/cygdrive/c/Users/Marek/Google Drive/School/SIT/5. Semestr/PJC/Semestralka/controller.hpp
+
+/cygdrive/c/Users/Marek/Google Drive/School/SIT/5. Semestr/PJC/Semestralka/main.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+vector
+-
+chrono
+-
+thread
+-
+mutex
+-
+controller.cpp
+/cygdrive/c/Users/Marek/Google Drive/School/SIT/5. Semestr/PJC/Semestralka/controller.cpp
+
